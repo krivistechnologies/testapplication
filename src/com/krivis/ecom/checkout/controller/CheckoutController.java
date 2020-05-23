@@ -10,6 +10,7 @@ public class CheckoutController {
 	public static void main(String[] args) {
 		
 		CheckoutService checkoutService = new CheckoutService();
+		
 		checkoutService.checkout();
 
 

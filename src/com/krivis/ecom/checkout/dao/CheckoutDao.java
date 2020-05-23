@@ -4,7 +4,7 @@ public class CheckoutDao {
 	
 	public void storeItem() {
 		
-		System.out.println("Item is processed and store");
+		System.out.println("Item is processed and stored in DB");
 		
 	}
 
